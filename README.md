@@ -21,7 +21,6 @@
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"EN BUSCA DE LO DESCONOCIDO..."</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
 
