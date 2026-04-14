@@ -24,7 +24,6 @@
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
 
 Last Edited on: 21/08/2021
 <!--
